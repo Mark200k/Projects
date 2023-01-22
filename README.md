@@ -1,2 +1,2 @@
-# Projecs
+# Projects
 All ML projects
